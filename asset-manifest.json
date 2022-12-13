@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/mercury-test/static/js/main.546009e0.js",
+    "main.js": "/mercury-test/static/js/main.7884bc06.js",
     "index.html": "/mercury-test/index.html",
-    "main.546009e0.js.map": "/mercury-test/static/js/main.546009e0.js.map"
+    "main.7884bc06.js.map": "/mercury-test/static/js/main.7884bc06.js.map"
   },
   "entrypoints": [
-    "static/js/main.546009e0.js"
+    "static/js/main.7884bc06.js"
   ]
 }
